@@ -13,7 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-3-column preview card component solution
+3-column preview card component
 
 ### The challenge
 
@@ -32,8 +32,8 @@ Mobile view
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-Ke5durlumQ)
+- Live Site URL: [Live site URL here](https://3-column-preview-card-component-4jk.pages.dev)
 
 ### Built with
 
